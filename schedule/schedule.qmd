@@ -1,0 +1,10 @@
+---
+title: "Schedule"
+format: html
+toc: true
+editor: source
+---
+
+This page outlines our seminar schedule, with links to session overviews and descriptions. Sessions listed as "TBD" will be discussed during our initial meeting at the beginning of the semester - seminar participants will collaboratively determine what content will fill these sessions.
+
+Please check this page often - session information will be updated frequently throughout the semester.
