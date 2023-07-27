@@ -12,8 +12,17 @@ Welcome to the Doctoral Urban Planning Seminar! During our introductory session,
 
 - Please familiarize yourself with this website including the [seminar information](../syllabus/syllabus.qmd) section and [schedule](schedule.qmd).
 - Come with ideas for what we might accomplish during our "TBD" sessions.
-- Please acquire [*Writing Your Journal Article in Twelve Weeks*](https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html) by Wendy L. Belcher (second edition) from your preferred book retailer.
-![](https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/49/9780226499918.jpg)
+- 
+::: {home}
+::: {.grid .belcher}
+::: {.g-col-8}
+For the semester when we workshop writing your first article, please acquire [*Writing Your Journal Article in Twelve Weeks*](https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html) by Wendy L. Belcher (second edition) from your preferred book retailer.
+:::
+::: {.g-col-4}
+![](https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/49/9780226499918.jpg){width=100%}
+:::
+:::
+:::
 - Begin the Week 1 prompts in *Belcher* Week 1. Take a look at our [Week 2 session](02_writingplan.qmd) for guidance.
 
 ## After we Meet

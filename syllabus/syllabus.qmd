@@ -8,22 +8,31 @@ editor: source
 
 ## Course Information
 
-The Doctoral Urban Planning seminar is a platform for the intellectual development for PhD students in the Department of Urban & Regional Planning and part the program's strategy for building a thriving and successful community of scholars. The seminars facilitate exchange of ideas and perspectives among doctoral students, faculty, and others working to support academic research and practice.
+The Doctoral Urban Planning seminar is a platform for the intellectual development for PhD students in the [Department of Urban & Regional Planning](https://urban.illinois.edu) and part the program's strategy for building a thriving and successful community of scholars. The seminars facilitate exchange of ideas and perspectives among doctoral students, faculty, and others working to support academic research and practice.
 
 The seminar is designed to support the progress and success of doctoral students who are at different stages in their research and doctoral studies, and provides a shared space for students to present their research and to solicit critical, yet constructive, peer reviews and advice.
 
 ## Seminar Structure
 
-The Doctoral Urban Planning Seminar is designed to be a collaborative venture between seminar participants and the faculty facilitator. Faculty facilitation focuses on leading a 4-semester cycle of seminar workshops focused on building skills and perspectives that will support scholarly and research practice:
+The Doctoral Urban Planning Seminar is designed to be a collaborative venture between seminar participants and the faculty facilitator. Faculty facilitation focuses on a 4-semester cycle of seminar workshops designed to build skills and perspectives that will support scholarly and research practice:
 
 ![](workshop_sequence.png)
 These facilitated "workshop within a seminar" sessions are scheduled for roughly every other week. Seminar participants will work to set the agenda and approach to other sessions, which may include inviting faculty panels and guest speakers to reflect upon their work and experiences, inviting representatives from campus offices to share resources and tools, providing peer feedback on talks and presentations, etc. This shared agenda will be planned during sessions at the beginning and end of each semester.
 
 ## Resources
-
+::: {home}
+::: {.grid .belcher}
+::: {.g-col-4}
+![](https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/49/9780226499918.jpg){width=100%}
+:::
+::: {.g-col-8}
 For the semester when we workshop writing your first article, please acquire [*Writing Your Journal Article in Twelve Weeks*](https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html) by Wendy L. Belcher (second edition) from your preferred book retailer.
+:::
+:::
+:::
 
-![](https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/49/9780226499918.jpg)
+
+
 
 ## Participation and Attendance
 
