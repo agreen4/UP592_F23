@@ -5,6 +5,7 @@ toc: true
 editor: source
 ---
 ## Session Overview
+This session is listed as "TBD" - we will work collaboratively at the beginning of the semester to determine how to utilize this time. Once we determine our goals for the session, we will add content here as needed.
 
 ## Before we Meet
 
