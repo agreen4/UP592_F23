@@ -26,6 +26,8 @@ website:
     - title: "Schedule"
       style: "docked"
       contents:
+        - section: "Writing Your First Article"
+          contents:
             - text: "Schedule Overview"
               file: schedule/schedule.qmd
             - text: "Week 1: Welcome and Introduction"
@@ -60,6 +62,12 @@ website:
               file: schedule/15_responding.qmd
             - text: "Week 16: Wrap-up and Goal Setting"
               file: schedule/16_wrapup.qmd
+        - section: "Writing For Funding"
+          contents:
+        - section: "Writing Your Dissertation Proposal"
+          contents:
+        - section: "Developing Your Academic Brand"
+          contents:
 format:
   html:
     theme:
