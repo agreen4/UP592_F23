@@ -8,3 +8,22 @@ editor: source
 This page outlines our seminar schedule, with links to session overviews and descriptions. Sessions listed as "TBD" will be discussed during our initial meeting at the beginning of the semester - seminar participants will collaboratively determine what content will fill these sessions.
 
 Please check this page often - session information will be updated frequently throughout the semester.
+
+| Week    | Date       | Session Description                  |
+|---------|------------|--------------------------------------|
+| Week 1  | 8/23/2023  | [Welcome and Introduction](01_introduction.qmd)             |
+| Week 2  | 8/30/2023  | [Developing a Writing Plan](02_writingplan.qmd)            |
+| Week 3  | 9/6/2023   | [TBD](03_tbd.qmd)                                  |
+| Week 4  | 9/13/2023  | [Targeting a Journal](04_targeting.qmd)                  |
+| Week 5  | 9/20/2023  | [Ph.D. Research Showcase (No Seminar)](05_showcase.qmd) |
+| Week 6  | 9/27/2023  | [Your Article Structure](06_structure.qmd)               |
+| Week 7  | 10/4/2023  | [ACSP Presentation Preparation](07_acspprep.qmd)        |
+| Week 8  | 10/11/2023 | [Your Best Evidence](08_evidence.qmd)                   |
+| Week 9  | 10/18/2023 | [ACSP Conference (No Seminar)](09_acspconference.qmd)         |
+| Week 10 | 10/25/2023 | [TBD](10_tbd.qmd)                                  |
+| Week 11 | 11/1/2023  | [The Peer Review Process](11_peerreview.qmd)              |
+| Week 12 | 11/8/2023  | [TBD](12_tbd.qmd)                                  |
+| Week 13 | 11/15/2023 | [Submitting Your Manuscript](13_submission.qmd)           |
+| Week 14 | 11/22/2023 | [Fall Break (No Seminar)](14_break.qmd)                           |
+| Week 15 | 11/29/2023 | [Responding to Decisions](15_responding.qmd)              |
+| Week 16 | 12/6/2023  | [Wrap-Up and Goal Setting](16_wrapup.qmd)             |
