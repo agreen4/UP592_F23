@@ -12,18 +12,18 @@ Please check this page often - session information will be updated frequently th
 | Week    | Date       | Session Description                  |
 |---------|------------|--------------------------------------|
 | Week 1  | 8/23/2023  | [Welcome and Introduction](01_introduction.qmd)             |
-| Week 2  | 8/30/2023  | [{{< fa graduation-cap >}} Developing a Writing Plan](02_writingplan.qmd)            |
+| Week 2  | 8/30/2023  | {{< fa graduation-cap >}} [Developing a Writing Plan](02_writingplan.qmd)            |
 | Week 3  | 9/6/2023   | [TBD](03_tbd.qmd)                                  |
-| Week 4  | 9/13/2023  | [{{< fa graduation-cap >}} Targeting a Journal](04_targeting.qmd)                  |
+| Week 4  | 9/13/2023  | {{< fa graduation-cap >}} [Targeting a Journal](04_targeting.qmd)                  |
 | Week 5  | 9/20/2023  | [Ph.D. Research Showcase (No Seminar)](05_showcase.qmd) |
-| Week 6  | 9/27/2023  | [{{< fa graduation-cap >}} Your Article Structure](06_structure.qmd)               |
+| Week 6  | 9/27/2023  | {{< fa graduation-cap >}} [Your Article Structure](06_structure.qmd)               |
 | Week 7  | 10/4/2023  | [ACSP Presentation Preparation](07_acspprep.qmd)        |
-| Week 8  | 10/11/2023 | [{{< fa graduation-cap >}} Your Best Evidence](08_evidence.qmd)                   |
+| Week 8  | 10/11/2023 | {{< fa graduation-cap >}} [Your Best Evidence](08_evidence.qmd)                   |
 | Week 9  | 10/18/2023 | [ACSP Conference (No Seminar)](09_acspconference.qmd)         |
 | Week 10 | 10/25/2023 | [TBD](10_tbd.qmd)                                  |
-| Week 11 | 11/1/2023  | [{{< fa graduation-cap >}} The Peer Review Process](11_peerreview.qmd)              |
+| Week 11 | 11/1/2023  | {{< fa graduation-cap >}} [The Peer Review Process](11_peerreview.qmd)              |
 | Week 12 | 11/8/2023  | [TBD](12_tbd.qmd)                                  |
-| Week 13 | 11/15/2023 | [{{< fa graduation-cap >}} Submitting Your Manuscript](13_submission.qmd)           |
+| Week 13 | 11/15/2023 | {{< fa graduation-cap >}} [Submitting Your Manuscript](13_submission.qmd)           |
 | Week 14 | 11/22/2023 | [Fall Break (No Seminar)](14_break.qmd)                           |
-| Week 15 | 11/29/2023 | [{{< fa graduation-cap >}} Responding to Decisions](15_responding.qmd)              |
+| Week 15 | 11/29/2023 | {{< fa graduation-cap >}} [Responding to Decisions](15_responding.qmd)              |
 | Week 16 | 12/6/2023  | [Wrap-Up and Goal Setting](16_wrapup.qmd)             |
