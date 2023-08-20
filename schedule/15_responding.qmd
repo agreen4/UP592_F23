@@ -6,7 +6,11 @@ editor: source
 ---
 ## Session Overview
 
+In this session, we'll talk about how to respond to reviewers' decisions. In most cases, review decisions will come with some level of feedback (even in the case of desk rejections). Whether we will use this feedback to revise our work or will use it in anticipation of resubmitting an article to another journal, we have to respond to reviewer feedback on multiple levels. We'll discuss strategies for doing this, and will practice using our reviews of each others' work.
+
 ## Before we Meet
+
+- Belcher Week X: Responding to Journal Decisions
 
 ## After we Meet
 

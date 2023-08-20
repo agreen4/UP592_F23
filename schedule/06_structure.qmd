@@ -6,7 +6,18 @@ editor: source
 ---
 ## Session Overview
 
+You've likely written literature reviews in the past, but how do they work within the context of a journal article? On a basic level, literature reviews help you to situate your argument and research question within existing conversations and literatures. At another level they are important signifiers of fit within the journal your are targeting, and also presents your argument regarding who qualified reviewers are for your work.
+
+Our workshop session will focus on how to *efficiently* construct a literature review that accomplishes all of these purposes. We will also think about how the arguments you make using this literature can help you revise and strengthen the structure of your writing.
+
 ## Before we Meet
+
+### Read
+
+- Belcher Week 5: Reviewing the Related Literature
+- Belcher Week 6: Strengthening Your Structure
+
+### Write
 
 ## After we Meet
 
