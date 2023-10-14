@@ -20,9 +20,9 @@ Please check this page often - session information will be updated frequently th
 | Week 7  | 10/4/2023  | {{< fa graduation-cap >}} [Your Best Evidence](07_evidence.qmd)           |
 | Week 8  | 10/11/2023 | [ACSP Presentation Preparation](08_acspprep.qmd)                          |
 | Week 9  | 10/18/2023 | [ACSP Conference (No Seminar)](09_acspconference.qmd)                     |
-| Week 10 | 10/25/2023 | [TBD](10_tbd.qmd)                                                         |
+| Week 10 | 10/25/2023 | [Mental Health](10_tbd.qmd)                                                         |
 | Week 11 | 11/1/2023  | {{< fa graduation-cap >}} [The Peer Review Process](11_peerreview.qmd)    |
-| Week 12 | 11/8/2023  | [TBD](12_tbd.qmd)                                                         |
+| Week 12 | 11/8/2023  | [Financial Integrity](12_tbd.qmd)                                                         |
 | Week 13 | 11/15/2023 | {{< fa graduation-cap >}} [Submitting Your Manuscript](13_submission.qmd) |
 | Week 14 | 11/22/2023 | [Fall Break (No Seminar)](14_break.qmd)                                   |
 | Week 15 | 11/29/2023 | {{< fa graduation-cap >}} [Responding to Decisions](15_responding.qmd)    |
