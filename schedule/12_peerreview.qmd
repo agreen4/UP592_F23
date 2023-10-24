@@ -5,6 +5,7 @@ toc: true
 editor: source
 ---
 ## Session Overview
+During this session, we'll discuss the peer review process and the feedback you received on your manuscript. Please come to class having with some initial notes and reflections on the feedback you received.
 
 ## Before we Meet
 

@@ -1,0 +1,23 @@
+---
+title: "Post-ACSP Check-In"
+format: html
+toc: true
+editor: source
+---
+## Session Overview
+We will use this session to check in and debrief the ACSP conference. We'll also talk about expectations regarding the upcoming peer review session.
+
+## Before we Meet
+
+## After we Meet
+
+### Peer Review Assignments
+
+**Husunukpe, J.:** Kim, Petty, Sohoni, 
+**Kim, N.:** Husunukpe, Sheikhfarshi, Zaghloul
+**Petty, J.:** Husunukpe, Sheikhfarshi, Zaghloul
+**Sheikhfarshi, S.:** Kim, Petty, Sohoni
+**Sohoni, S.:** Petty, Sheikhfarshi, Zaghloul
+**Zaghloul, T.:** Kim, Husunukpe, Sohoni 
+
+## Additional Resources
